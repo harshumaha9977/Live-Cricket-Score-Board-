@@ -26,5 +26,5 @@ A desktop-based **Live Cricket Scoreboard** application built using **Java AWT**
 
 ---
 
-## 📂 Project Structure
+
 
